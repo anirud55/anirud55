@@ -1,5 +1,6 @@
 ## A technology passionate and contributor in Infrastructure, Cloud, and DevOps space.
-[![LeetCode Stats](https://cp-logo.vercel.app/leetcode/anarkh55)]
+#### Competitive Programming
+[![LeetCode Badge](https://cp-logo.vercel.app/leetcode/anarkh55)](https://leetcode.com/anarkh55/)
 <p align="left">
   <a href="https://stackoverflow.com/users/18562426/anirud55">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/18562426?color=orange&label=reputation&logo=stackoverflow">
