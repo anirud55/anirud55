@@ -1,5 +1,4 @@
 ## A technology passionate and contributor in Infrastructure, Cloud, and DevOps space.
-#### Competitive Programming
 [![LeetCode Badge](https://cp-logo.vercel.app/leetcode/anarkh55)](https://leetcode.com/anarkh55/)
 <p align="left">
   <a href="https://stackoverflow.com/users/18562426/anirud55">
