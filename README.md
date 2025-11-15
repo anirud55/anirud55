@@ -18,8 +18,8 @@
 
 #### Now
 
-- :fire: Interested in Linux SYS Admin, Data Center Automation and Tooling, DevOps and Cloud engineering;
-- :calendar: Looking for contributing to opensource project on infra & cloud domain 
+- 🔥 Interested in HPC Operations, Linux Systems Engineering, Observability & Automation, AI Infrastructure, and Cloud-Native Microservices  
+- 📆 Looking to contribute to open-source projects in HPC, AI infrastructure, and cloud automation domains  
 
 #### Bio
 
