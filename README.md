@@ -51,10 +51,6 @@
 </p>
 
 
-#### My Current Stack
-
-<img height="48" src="img/redhat-original.svg" alt="RedHat"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/ansible-original.svg" alt="Ansible"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/aws-original.svg" alt="AWS"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/github-original.svg" alt="git"> <img height="48" src="img/k8s-original.svg" alt="Kubernetes"> <img height="48" src="img/react-original.svg" alt="react">
-
 #### Connect With Me
 
 <p left="center">
