@@ -1,4 +1,4 @@
-## A technology passionate and contributor in Infrastructure, Cloud, and DevOps space.
+## Passionate about building and optimizing high-performance computing infrastructure, Linux systems, and cloud-native platforms, with a focus on automation, observability, and scalable AI workloads
 
 <p align="left">
    <a href="https://leetcode.com/anarkh55/">
