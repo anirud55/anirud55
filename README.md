@@ -23,13 +23,24 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **IBM Research**
-- ⚙️ I daily use : `.yml`, `.sh`, `.py`, `.go`, `.js`
-- 🌍 I'm mostly active within the **Linux SYS Admin** , **Data Center Automation** , **Test Automation** , **Selenium Test Automation** , **QA Automation Architect**, **Python Community**
-- 🌱 Learning all about **DevOps** , **Blockchain** , **Openshift** , **AI**, **Natural Language Processing (NLP)** , **Python Data Science, Machine Learning, Graph, and Natural Language Processing**
-- 💬 Ping me about **Linux SYS Administration**, **Python**, **Docker**, **RestAPIs**, **Blockchain** , **NEAR**
-- 📫 Reach me: [linkedin.com/in/anirud55](https://www.linkedin.com/in/anirud55/)
+- 🏢 Currently working at IBM Research as a Systems Engineer
+- ⚙️ I daily use: .yml, .sh, .py, Ansible, Docker
+- 🌍 Active in: Linux HPC Cluster Management, Data Center Automation, Observability & Monitoring, DevOps Tooling, Python Community
+- 🌱 Learning: AI Infrastructure, OpenShift, GPU Optimization, Cloud-Native Microservices, Blockchain, Machine Learning, NLP
+- 💬 Ping me about: HPC Operations, Linux Systems, Python Automation, Prometheus/Grafana, Docker, Cloud, Blockchain
+- 📫 Reach me: https://linkedin.com/in/anirud55
 
+#### Tech Stack & Tools
+https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white
+https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white
+https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white
+https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/GPFS-0066CC?style=flat
+https://img.shields.io/badge/LSF-0066CC?style=flat
 
 #### Development Stuffs:
 
